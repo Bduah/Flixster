@@ -26,8 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="flixterwalkthrough.gif" width=250><br>
 
 ### Notes
-
-Describe any challenges encountered while building the app.
+One major challenge I had was the initializeYoutube method in DetailActivity class. This was because I was using Log.w instead of Log.i. Also I had trouble pushing my part 2 of the flix. I mistakenly deleted all the new files I created and had to do the work all over. But I realised that using command line to commit and push changes worked better for me.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
